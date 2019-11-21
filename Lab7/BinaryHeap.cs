@@ -183,6 +183,8 @@ namespace Lab7
 
 
                 /*
+                 *
+                 * may remove
                 if (array[smallerIndex + 1] == default) // checks to see if at the first index (end of tree)
                 {
                     index = smallerIndex;
